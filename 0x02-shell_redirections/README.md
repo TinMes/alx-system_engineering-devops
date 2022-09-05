@@ -1,0 +1,1 @@
+This folder contains shell scripts that focus on directing.
